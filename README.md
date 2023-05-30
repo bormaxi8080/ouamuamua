@@ -14,6 +14,8 @@
 
 ### Additional Resources:
 
+Alien Space Rock 'Oumuamua Just Keeps Getting Weirder: [https://www.discovermagazine.com/the-sciences/alien-space-rock-oumuamua-just-keeps-getting-weirder](https://www.discovermagazine.com/the-sciences/alien-space-rock-oumuamua-just-keeps-getting-weirder)
+
 - Small Asteroid or Comet 'Visits' from Beyond the Solar System:
 https://www.nasa.gov/feature/jpl/small-asteroid-or-comet-visits-from-beyond-the-solar-system
 
