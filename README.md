@@ -8,37 +8,37 @@
 
 ![alt text](./img/comet20171025-16.gif)
 
-### Resources:
+## Resources:
 
 [NASA Discovery](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/)
 
-### Additional Resources:
+## Additional Resources:
 
 Alien Space Rock 'Oumuamua Just Keeps Getting Weirder: [https://www.discovermagazine.com/the-sciences/alien-space-rock-oumuamua-just-keeps-getting-weirder](https://www.discovermagazine.com/the-sciences/alien-space-rock-oumuamua-just-keeps-getting-weirder)
 
 - Small Asteroid or Comet 'Visits' from Beyond the Solar System:
 https://www.nasa.gov/feature/jpl/small-asteroid-or-comet-visits-from-beyond-the-solar-system
 
-
 - For more on NASA’s Planetary Defense Coordination Office:
 https://www.nasa.gov/planetarydefense
 
-
 - To watch a NASA Planetary Defense video on International Asteroid Day:
 https://www.youtube.com/watch?v=VYO-mpoC8_s
-
 
 - Interstellar Object FAQs:
 https://www.nasa.gov/planetarydefense/faq/interstellar
 
 ![alt text](./img/eso1737b.jpg)
 
-### More in communities:
+## More in communities:
 
 - [Chinese scientists reject the idea that the 'Oumuamua interstellar object is an alien ship](https://naked-science.ru/community/499058)
 
-
 - ['Oumuamua turned out to be an asteroid, not an alien ship](https://naked-science.ru/article/astronomy/not-alien-asteroid)
 
-
 - [The James Webb Space Telescope will be able to view the next Oumuamua](https://naked-science.ru/community/403916)
+
+## Donates
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
+
